@@ -1,0 +1,8 @@
+TRIVAPT Source Code Integrity Proof
+
+SHA256: 9479789ccc3f257e13208ae48ab7a3af0c6c1bd062d14a9a35e5951f0a06d889
+
+These hashes correspond to the original private source code of TRIVAPT
+as of 28 April 2026.
+
+- Trident RedOps
